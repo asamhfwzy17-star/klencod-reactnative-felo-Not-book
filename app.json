@@ -1,0 +1,5 @@
+{
+  "name": "FeloNotBook",
+  "displayName": "felo Not book",
+  "android": {"packageName": "com.felo"}
+}
